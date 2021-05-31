@@ -25,3 +25,7 @@ After inputting all this, just run the script, and your bot should be alive!
 - Make one bot which can be configured in a Reddit wiki page instead using YAML.
 
 - Store all data in a SQL database.
+
+## Contact me
+
+You can contact me via discord at voicedm#5333 or through Reddit: [u/voicedm](https://reddit.com/u/voicedm).
